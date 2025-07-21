@@ -2,10 +2,9 @@
 
 🔧 Estudante de Engenharia Elétrica apaixonado por sistemas embarcados, robótica móvel, eletrônica de potência para fontes renováveis e controle de sistemas não lineares.
 
-- 💼 Atualmente desenvolvendo projetos envolvendo STM32, ESP32, ROS/ROS2 e controle digital e adaptativo de sistemas dinâmicos
-- 🤖 Interesse especial em Grid-Forming, sistemas robóticos e controle preditivo
+- 💼 Atualmente desenvolvendo projetos envolvendo STM32 e controle adaptativo de sistemas dinâmicos
 - 🔍 Atuando em pesquisa com foco em eletrônica de potência
-- 🛠️ Experiência prática com desenvolvimento de firmware
+- 🛠️ Experiência prática com robótica e desenvolvimento de firmware
 
 ---
 
