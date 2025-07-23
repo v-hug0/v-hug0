@@ -1,20 +1,20 @@
-# 👋 Olá! Eu sou o Victor Hugo
+🔧 Final-year Electrical Engineering student passionate about embedded systems, mobile robotics, power electronics for renewable energy, and nonlinear control systems.
 
-🔧 Estudante de Engenharia Elétrica apaixonado por sistemas embarcados, robótica móvel, eletrônica de potência para fontes renováveis e controle de sistemas não lineares.
+💼 Currently working on projects involving STM32 microcontrollers and adaptive control of dynamic systems
 
-- 💼 Atualmente desenvolvendo projetos envolvendo STM32 e controle adaptativo de sistemas dinâmicos
-- 🔍 Atuando em pesquisa com foco em eletrônica de potência
-- 🛠️ Experiência prática com robótica e desenvolvimento de firmware
+🔍 Researching power electronics with a focus on renewable energy applications
+
+🛠️ Hands-on experience in robotics, firmware development, and real-time control
 
 ---
 
-### ⚙️ Minhas estatísticas do GitHub
+### ⚙️ GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-hug0&layout=compact&theme=github_dark&hide_title=true)
 
 ---
 
-### 🐍 Cobra dos Commits
+### 🐍 Commit Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Technologies & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -33,5 +33,5 @@
 
 ---
 
-📫 **Entre em contato comigo:**  
+📫 Get in touch with me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/victor-hugo-9b8a30187)](https://linkedin.com/in/victor-hugo-9b8a30187)
