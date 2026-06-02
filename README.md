@@ -2,7 +2,7 @@
 
 ---
 
-🔧 Final-year Electrical Engineering student passionate about embedded systems, mobile robotics, power electronics for renewable energy, and nonlinear control systems.
+🔧 Electrical Engineer passionate about embedded systems, mobile robotics, power electronics for renewable energy, and nonlinear control systems.
 
 💼 Currently working on projects involving STM32 microcontrollers and adaptive control of dynamic systems
 
